@@ -39,9 +39,9 @@ a {
     font-weight: 600; }
     .custom-navbar .navbar-brand > span {
       opacity: .4; }
-  .custom-navbar .navbar-toggler {
+  .custom-navbar {
     border-color: transparent; }
-    .custom-navbar .navbar-toggler:active, .custom-navbar .navbar-toggler:focus {
+    .custom-navbar, .custom-navbar {
       -webkit-box-shadow: none;
       box-shadow: none;
       outline: none; }
