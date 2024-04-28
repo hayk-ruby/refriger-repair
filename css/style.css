@@ -39,9 +39,10 @@ a {
     font-weight: 600; }
     .custom-navbar .navbar-brand > span {
       opacity: .4; }
-  .custom-navbar {
-    border-color: transparent; }
-    .custom-navbar, .custom-navbar {
+  .custom-navbar .navbar-toggler {
+    border-color: transparent; 
+    display: none;}
+  custom-navbar .navbar-toggler:active, .custom-navbar  {
       -webkit-box-shadow: none;
       box-shadow: none;
       outline: none; }
