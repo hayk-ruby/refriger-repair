@@ -727,7 +727,5 @@ textarea {
 }
 .fixed-link{
   width: unset;
-  border: 2px solid rgba(44, 44, 44, 0.879);
-  border-radius: 50%;
-  padding: 10px!important;
+  margin-top: 1em;
 }
